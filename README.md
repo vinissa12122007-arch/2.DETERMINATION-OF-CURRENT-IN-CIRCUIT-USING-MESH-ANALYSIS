@@ -22,6 +22,8 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="812" height="1234" alt="image" src="https://github.com/user-attachments/assets/a0975534-9c19-4332-8d32-eeb09ee5dd64" />
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
@@ -35,8 +37,19 @@
 5.	Reduce the RPS to its minimum value and switch OFF the supply.
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
+   
+**TABULAR COLUMN*
 
-   **RESULT:**
+<img width="863" height="441" alt="image" src="https://github.com/user-attachments/assets/59ae867a-6c5e-454a-98f3-9fc24da9355c" />
+
+** CALCULATION **
+
+<img width="864" height="976" alt="image" src="https://github.com/user-attachments/assets/e1709372-de4f-44a7-82b1-c6f08e4c0d49" />
+
+   **RESULT:** 
+   
+   <img width="868" height="1302" alt="image" src="https://github.com/user-attachments/assets/33bac017-d55d-465d-9204-b68f7a41d0dc" />
+
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
 
